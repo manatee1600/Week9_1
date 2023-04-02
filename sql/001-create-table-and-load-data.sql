@@ -9,4 +9,4 @@ CREATE TABLE names (
 
 INSERT INTO names (id,name,address) VALUES (1,"koyama","tokyo");
 INSERT INTO names (id,name,address) VALUES (2,"tanaka","kanagawa");
-INSERT INTO names (id,name,address) VALUES (3,"suzuki","saitama");
+INSERT INTO names (id,name,address) VALUES (3,"suzuki","saga");
